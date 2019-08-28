@@ -53,7 +53,7 @@ const App = () => {
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
+              <Text style={styles.sectionTitle}>Debug is OK</Text>
               <Text style={styles.sectionDescription}>
                 <DebugInstructions />
               </Text>

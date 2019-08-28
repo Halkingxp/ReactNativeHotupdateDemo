@@ -1,5 +1,5 @@
 # ReactNativeHotupdateDemo
-ReactNativeHotupdateDemo
+ReactNativeHotUpdateDemo
 
 
 # Window 下打包更新 启动闪退bug 提示找不到index.bundlejs：
