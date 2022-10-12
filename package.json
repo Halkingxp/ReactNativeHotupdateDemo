@@ -12,7 +12,7 @@
     "react-native": "0.60.5",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-reanimated": "^1.2.0",
-    "react-native-update": "^5.2.3",
+    "react-native-update": "^5.10.1",
     "react-navigation": "^3.12.1"
   },
   "devDependencies": {
